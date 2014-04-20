@@ -1,6 +1,6 @@
 package myHibernate.bean;
 //hehehehehehehehehhehehehehhhe
-//pppppppppppppppppppppppppppppppppp
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 public class Product {
 	private String id=null;
 	private String pname=null;
@@ -32,6 +32,6 @@ public class Product {
 		return this.provider;
 		
 	}
-	//kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+	//bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 }
