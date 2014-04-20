@@ -1,5 +1,6 @@
 package myHibernate.bean;
 //hehehehehehehehehhehehehehhhe
+//jjjjjjjjjjjjjjjjjjjjjjjjj
 public class Product {
 	private String id=null;
 	private String pname=null;
